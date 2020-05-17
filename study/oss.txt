@@ -1,0 +1,2 @@
+I practiced the oss mission with raspberry pi.
+It took too long to download programs needed to conduct the mission.
