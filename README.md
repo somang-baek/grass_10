@@ -2,7 +2,7 @@
 # grass_10
 
 
-## directory & files
+## directory / files
 
 diary / peace.txt
 
